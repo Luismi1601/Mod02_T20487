@@ -1,0 +1,9 @@
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\bin\Debug\netstandard2.0\InMemory.Dal.deps.json
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\bin\Debug\netstandard2.0\InMemory.Dal.dll
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\bin\Debug\netstandard2.0\InMemory.Dal.pdb
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.csprojAssemblyReference.cache
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.AssemblyInfoInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.AssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.csproj.CoreCompileInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.dll
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.pdb

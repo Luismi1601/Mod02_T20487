@@ -1,0 +1,12 @@
+C:\Curso\20487\luismi\tareas\mod02\demofiles\crud\starter\bin\Debug\netcoreapp2.1\CRUD.deps.json
+C:\Curso\20487\luismi\tareas\mod02\demofiles\crud\starter\bin\Debug\netcoreapp2.1\CRUD.runtimeconfig.json
+C:\Curso\20487\luismi\tareas\mod02\demofiles\crud\starter\bin\Debug\netcoreapp2.1\CRUD.runtimeconfig.dev.json
+C:\Curso\20487\luismi\tareas\mod02\demofiles\crud\starter\bin\Debug\netcoreapp2.1\CRUD.dll
+C:\Curso\20487\luismi\tareas\mod02\demofiles\crud\starter\bin\Debug\netcoreapp2.1\CRUD.pdb
+C:\Curso\20487\luismi\tareas\mod02\demofiles\crud\starter\obj\Debug\netcoreapp2.1\CRUD.csprojAssemblyReference.cache
+C:\Curso\20487\luismi\tareas\mod02\demofiles\crud\starter\obj\Debug\netcoreapp2.1\CRUD.AssemblyInfoInputs.cache
+C:\Curso\20487\luismi\tareas\mod02\demofiles\crud\starter\obj\Debug\netcoreapp2.1\CRUD.AssemblyInfo.cs
+C:\Curso\20487\luismi\tareas\mod02\demofiles\crud\starter\obj\Debug\netcoreapp2.1\CRUD.csproj.CoreCompileInputs.cache
+C:\Curso\20487\luismi\tareas\mod02\demofiles\crud\starter\obj\Debug\netcoreapp2.1\CRUD.dll
+C:\Curso\20487\luismi\tareas\mod02\demofiles\crud\starter\obj\Debug\netcoreapp2.1\CRUD.pdb
+C:\Curso\20487\luismi\tareas\mod02\demofiles\crud\starter\obj\Debug\netcoreapp2.1\CRUD.genruntimeconfig.cache

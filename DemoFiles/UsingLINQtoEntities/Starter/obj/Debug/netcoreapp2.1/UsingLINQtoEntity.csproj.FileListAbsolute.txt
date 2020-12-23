@@ -1,0 +1,12 @@
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.deps.json
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.runtimeconfig.json
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.runtimeconfig.dev.json
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.dll
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.pdb
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.csprojAssemblyReference.cache
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.AssemblyInfoInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.AssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.csproj.CoreCompileInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.dll
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.pdb
+C:\Curso\20487\Luismi\Tareas\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.genruntimeconfig.cache
